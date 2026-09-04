@@ -1,2 +1,0 @@
-# Smartbot
-Professor's bot
